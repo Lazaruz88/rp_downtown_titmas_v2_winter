@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mark2580/sanctum/sanctum_christmas_tree/gold2"
+	$bumpmap "dev/bump_normal"
+	$phongexponenttexture "models/mark2580/sanctum/sanctum_christmas_tree/green"	
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mark2580/sanctum/sanctum_christmas_tree/decoballs"
+	$bumpmap "models/mark2580/sanctum/sanctum_christmas_tree/decoballs_n"
+	$phongexponenttexture "models/mark2580/sanctum/sanctum_christmas_tree/green"	
+	
+
+	$emissiveBlendEnabled 1
+	$emissiveBlendTexture     "dev/null"
+	$emissiveBlendBaseTexture	"models/mark2580/sanctum/sanctum_christmas_tree/decoballs_detail"
+	$emissiveBlendFlowTexture  "dev/null"
+	$emissiveBlendTint "[5.0 5.0 5.0]"
+	$emissiveBlendStrength 1
+	$emissiveBlendScrollVector "[0 0]"
+}
