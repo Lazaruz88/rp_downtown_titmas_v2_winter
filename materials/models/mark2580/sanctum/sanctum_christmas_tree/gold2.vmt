@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mark2580/sanctum/sanctum_christmas_tree/gold2"
+	$bumpmap "dev/bump_normal"
+	$phongexponenttexture "models/mark2580/sanctum/sanctum_christmas_tree/green"	
+	
+	$color2 "[0.6 0.0 0.0]"
+	$blendtintbybasealpha "1"
+	
+	$phong 1
+	$phongboost "16"
+	$phongfresnelranges "[0.3 0.75 1.00]"
+	$phongalbedotint "1"
+	
+	$envmap "models/mark2580/sanctum/sanctum_christmas_tree/cubemap_specular001.hdr"
+	$normalmapalphaenvmapmask "1"
+	$envmapfresnel "1"
+	$envmaptint "[0.2 0.2 0.2]"
+}

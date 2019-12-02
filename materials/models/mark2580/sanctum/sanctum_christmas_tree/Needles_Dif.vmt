@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 		"models/mark2580/sanctum/sanctum_christmas_tree/Needles_Dif"
+	"$bumpmap" 		"models/mark2580/sanctum/sanctum_christmas_tree/Needles_Dif_n"
+	"$alphatest" 		"1"
+	"$alphatestreference"   "0.3"
+        "$nocull"              "1"
+
+	"$lightwarptexture"	"models/mark2580/sanctum/sanctum_christmas_tree/lightwarp_soft_white"
+}
